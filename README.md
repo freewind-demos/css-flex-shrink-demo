@@ -5,5 +5,5 @@ Css Flex Shrink Demo
 那么第1个将减少`30*(1/(1+2))`，第2个将减少`30*(2/(1+2))`.
 
 ```
-npm run demo
+npm start
 ```
